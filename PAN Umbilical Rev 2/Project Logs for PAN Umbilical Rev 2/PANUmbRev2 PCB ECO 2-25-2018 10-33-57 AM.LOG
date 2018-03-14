@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBatt Pin=PC-?-H2_47
+Change Component Comment : Designator=ADCS Old Comment=ADCS New Comment=PIKSI_UART Connector
+Change Component Designator: OldDesignator=Docking NewDesignator=Docking_Left
+Added Pin To Net: NetName=VBatt Pin=PC-?-H2_46
+Change Class Name : Old Net Name=AdapterBoard New Net Name=PANUmbRev2
+Added Member To Class: ClassName=PANUmbRev2 Member=Component Docking_Left Docking DRV8825 Header
+Added Room: Name=PANUmbRev2

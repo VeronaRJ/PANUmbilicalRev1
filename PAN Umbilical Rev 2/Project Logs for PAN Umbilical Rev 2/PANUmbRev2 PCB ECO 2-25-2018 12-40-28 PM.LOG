@@ -1,0 +1,7 @@
+Added Component: Designator=DockingMotors(532610471)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Motor1 Pin=DockingMotors-1
+Added Pin To Net: NetName=Motor2 Pin=DockingMotors-2
+Added Pin To Net: NetName=Motor3 Pin=DockingMotors-3
+Added Pin To Net: NetName=Motor4 Pin=DockingMotors-4
+Added Member To Class: ClassName=PANUmbRev2 Member=Component DockingMotors Connector 4POS Molex PicoBlade

@@ -1,0 +1,2 @@
+Remove Pin=DockingSwitch-1 From Net=docking_en
+Remove Pin=Teensy 3.5-11 From Net=24v_SAH_enable

@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=DGND Pin=Teensy3.5-1
+Added Pin To Net: NetName=Piksi_RX Pin=Teensy3.5-2
+Added Pin To Net: NetName=Piksi_TX Pin=Teensy3.5-3
+Added Pin To Net: NetName=Teensy2_Reset Pin=Teensy3.5-4
+Added Pin To Net: NetName=Docking1 Pin=Teensy3.5-5
+Added Pin To Net: NetName=Docking2 Pin=Teensy3.5-6
+Added Pin To Net: NetName=Docking_en Pin=Teensy3.5-7
+Added Pin To Net: NetName=TempMuxA0 Pin=Teensy3.5-8
+Added Pin To Net: NetName=Quake_RX Pin=Teensy3.5-9
+Added Pin To Net: NetName=Quake_TX Pin=Teensy3.5-10
+Added Pin To Net: NetName=TempMuxA1 Pin=Teensy3.5-12
+Added Pin To Net: NetName=TempMuxEN Pin=Teensy3.5-13
+Added Pin To Net: NetName=DGND Pin=Teensy3.5-34
+Added Pin To Net: NetName=Valve1 Pin=Teensy3.5-35
+Added Pin To Net: NetName=Valve2 Pin=Teensy3.5-36
+Added Pin To Net: NetName=Valve3 Pin=Teensy3.5-37
+Added Pin To Net: NetName=Teensy2_SCL Pin=Teensy3.5-38
+Added Pin To Net: NetName=Teensy2_SDA Pin=Teensy3.5-39
+Added Pin To Net: NetName=Valve4 Pin=Teensy3.5-40
+Added Pin To Net: NetName=Pressure1 Pin=Teensy3.5-41
+Added Pin To Net: NetName=24V_SAH_enable2 Pin=Teensy3.5-42
+Added Pin To Net: NetName=TempMuxRead Pin=Teensy3.5-43
+Added Pin To Net: NetName=Valve5 Pin=Teensy3.5-44
+Added Pin To Net: NetName=AGND Pin=Teensy3.5-47
+Added Pin To Net: NetName=5V_Teensy1 Pin=Teensy3.5-48
+Added Pin To Net: NetName=QuakeEnable Pin=PC-?-H1_14
+Added Pin To Net: NetName=QuakeEnable Pin=Teensy3.5-45
+Added Net: Name=QuakeEnable
+Added Room: Name=PANUmbRev2

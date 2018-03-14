@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Motor1 Pin=Docking-1
+Removed Pin From Net: NetName=Motor2 Pin=Docking-2
+Removed Pin From Net: NetName=Motor3 Pin=Docking-3
+Removed Pin From Net: NetName=Motor4 Pin=Docking-4
+Removed Member From Class: ClassName=PANUmbRev2 Member=Docking
+Added Component: Designator=DockingSwitch(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3_Valves135 Pin=DockingSwitch-2
+Added Pin To Net: NetName=DockingSwitch Pin=DockingSwitch-1
+Added Net: Name=DockingSwitch
+Added Member To Class: ClassName=PANUmbRev2 Member=Component DockingSwitch 

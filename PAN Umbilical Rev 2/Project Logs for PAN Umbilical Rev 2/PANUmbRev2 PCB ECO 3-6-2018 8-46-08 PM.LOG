@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=Docking_en Pin=DockingSwitch-1
+Added Pin To Net: NetName=24V_SAH_enable Pin=Teensy 3.5-11

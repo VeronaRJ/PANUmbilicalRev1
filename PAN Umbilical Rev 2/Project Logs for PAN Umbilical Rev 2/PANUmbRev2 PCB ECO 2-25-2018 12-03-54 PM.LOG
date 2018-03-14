@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Teensy2_SCL Pin=IMU-1
+Removed Pin From Net: NetName=Teensy2_SDA Pin=IMU-2
+Removed Pin From Net: NetName=5V_IMU Pin=IMU-4
+Removed Pin From Net: NetName=24V_2 Pin=PC-?-H2_50
+Added Pin To Net: NetName=5V_IMU Pin=IMU-2
+Added Pin To Net: NetName=Teensy2_SDA Pin=IMU-4
+Added Pin To Net: NetName=Teensy2_SCL Pin=IMU-5

@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=5V_TempSensors Pin=PC-1-H1_47
+Removed Pin From Net: NetName=TempRead1 Pin=R1-2
+Removed Pin From Net: NetName=TempRead2 Pin=R2-2
+Removed Pin From Net: NetName=TempRead3 Pin=R3-2
+Removed Pin From Net: NetName=5V_TempSensors Pin=R6-2
+Removed Pin From Net: NetName=TempRead1 Pin=T1-1
+Removed Pin From Net: NetName=TempRead2 Pin=T2-1
+Removed Pin From Net: NetName=TempRead3 Pin=T3-1
+Removed Pin From Net: NetName=TempRead3 Pin=Teensy 3.5-25
+Removed Pin From Net: NetName=TempRead2 Pin=Teensy 3.5-26
+Removed Pin From Net: NetName=TempRead1 Pin=Teensy 3.5-27
+Removed Pin From Net: NetName=Valve1 Pin=Teensy 3.5-35
+Removed Pin From Net: NetName=Valve2 Pin=Teensy 3.5-36
+Removed Pin From Net: NetName=Valve3 Pin=Teensy 3.5-37
+Removed Pin From Net: NetName=Valve4 Pin=Teensy 3.5-40
+Removed Pin From Net: NetName=Valve5 Pin=Teensy 3.5-44
+Removed Member From Class: ClassName=PANUmbRev2 Member=DockingSwitch
+Added Component: Designator=Docking_Switch(MOLX-53398-0371_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "053398037153398-0371BULK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/533980371_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. J, 09/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions / Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 1.25 mm, 1 x 3 Position, Height 4.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "53398-0371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "53398"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tradename"; Value = "PicoBlade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Added Component: Designator=XBEE(532610471)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AGND Pin=ADCS-1
+Added Pin To Net: NetName=DGND Pin=Docking_Switch-1
+Added Pin To Net: NetName=5V_TempSensors Pin=Docking_Switch-2
+Added Pin To Net: NetName=5V_TempSensors Pin=PC-1-H2_28
+Added Pin To Net: NetName=DGND Pin=PC-1-H2_30
+Added Pin To Net: NetName=DGND Pin=PC-1-H2_32
+Added Pin To Net: NetName=Valve1 Pin=Teensy 3.5-5
+Added Pin To Net: NetName=Valve2 Pin=Teensy 3.5-6
+Added Pin To Net: NetName=Valve3 Pin=Teensy 3.5-7
+Added Pin To Net: NetName=Valve4 Pin=Teensy 3.5-8
+Added Pin To Net: NetName=Valve5 Pin=Teensy 3.5-11
+Added Pin To Net: NetName=DGND Pin=XBEE-1
+Change Net Name : Old Net Name=5V_TempSensors New Net Name=3V3_2
+Change Net Name : Old Net Name=Teensy2_SCL New Net Name=SCL
+Change Net Name : Old Net Name=Teensy2_SDA New Net Name=SDA
+Added Pin To Net: NetName=3V3_1 Pin=PC-1-H2_27
+Added Net: Name=3V3_1
+Added Pin To Net: NetName=3V3_3 Pin=PC-1-H1_52
+Added Net: Name=3V3_3
+Added Pin To Net: NetName=5V_1 Pin=PC-1-H2_25
+Added Pin To Net: NetName=5V_1 Pin=Teensy 3.5-48
+Added Net: Name=5V_1
+Added Pin To Net: NetName=5V_2 Pin=ADCS-4
+Added Pin To Net: NetName=5V_2 Pin=PC-1-H2_26
+Added Net: Name=5V_2
+Added Pin To Net: NetName=5V_3 Pin=PC-1-H1_47
+Added Pin To Net: NetName=5V_3 Pin=PIKSI_UARTA-5
+Added Net: Name=5V_3
+Added Pin To Net: NetName=5V_4 Pin=PC-1-H1_49
+Added Net: Name=5V_4
+Added Pin To Net: NetName=5V_5 Pin=PC-1-H1_51
+Added Net: Name=5V_5
+Added Pin To Net: NetName=5V_6 Pin=PC-1-H1_48
+Added Pin To Net: NetName=5V_6 Pin=R6-2
+Added Net: Name=5V_6
+Added Pin To Net: NetName=5V_7 Pin=IMU-2
+Added Pin To Net: NetName=5V_7 Pin=PC-1-H1_50
+Added Net: Name=5V_7
+Added Pin To Net: NetName=DCDCmotor_EN Pin=PC-1-H1_35
+Added Pin To Net: NetName=DCDCmotor_EN Pin=Teensy 3.5-16
+Added Net: Name=DCDCmotor_EN
+Added Pin To Net: NetName=DCDCSAH_EN Pin=PC-1-H1_37
+Added Pin To Net: NetName=DCDCSAH_EN Pin=Teensy 3.5-17
+Added Net: Name=DCDCSAH_EN
+Added Pin To Net: NetName=Dock_Dir Pin=Docking_Left-8
+Added Pin To Net: NetName=Dock_Dir Pin=PC-1-H1_29
+Added Pin To Net: NetName=Dock_Dir Pin=Teensy 3.5-40
+Added Net: Name=Dock_Dir
+Added Pin To Net: NetName=Dock_Reset Pin=Docking_Left-5
+Added Pin To Net: NetName=Dock_Reset Pin=Docking_Left-6
+Added Pin To Net: NetName=Dock_Reset Pin=PC-1-H1_23
+Added Pin To Net: NetName=Dock_Reset Pin=PC-1-H1_25
+Added Pin To Net: NetName=Dock_Reset Pin=Teensy 3.5-35
+Added Pin To Net: NetName=Dock_Reset Pin=Teensy 3.5-36
+Added Net: Name=Dock_Reset
+Added Pin To Net: NetName=Dock_Step Pin=Docking_Left-7
+Added Pin To Net: NetName=Dock_Step Pin=PC-1-H1_27
+Added Pin To Net: NetName=Dock_Step Pin=Teensy 3.5-37
+Added Net: Name=Dock_Step
+Added Pin To Net: NetName=Dock_Switch Pin=Docking_Switch-3
+Added Pin To Net: NetName=Dock_Switch Pin=PC-1-H1_21
+Added Pin To Net: NetName=Dock_Switch Pin=Teensy 3.5-13
+Added Net: Name=Dock_Switch
+Added Pin To Net: NetName=PressSense Pin=PC-1-H1_42
+Added Pin To Net: NetName=PressSense Pin=PressSense-1
+Added Pin To Net: NetName=PressSense Pin=Teensy 3.5-45
+Added Net: Name=PressSense
+Added Pin To Net: NetName=Quake_EN Pin=PC-1-H1_14
+Added Pin To Net: NetName=Quake_EN Pin=Teensy 3.5-42
+Added Net: Name=Quake_EN
+Added Pin To Net: NetName=Temp1 Pin=R1-2
+Added Pin To Net: NetName=Temp1 Pin=T1-1
+Added Pin To Net: NetName=Temp1 Pin=Teensy 3.5-41
+Added Net: Name=Temp1
+Added Pin To Net: NetName=Temp2 Pin=R2-2
+Added Pin To Net: NetName=Temp2 Pin=T2-1
+Added Pin To Net: NetName=Temp2 Pin=Teensy 3.5-43
+Added Net: Name=Temp2
+Added Pin To Net: NetName=Temp3 Pin=R3-2
+Added Pin To Net: NetName=Temp3 Pin=T3-1
+Added Pin To Net: NetName=Temp3 Pin=Teensy 3.5-44
+Added Net: Name=Temp3
+Added Pin To Net: NetName=V_BAT_1 Pin=PC-1-H2_45
+Added Net: Name=V_BAT_1
+Added Pin To Net: NetName=V_BAT_2 Pin=PC-1-H2_46
+Added Net: Name=V_BAT_2
+Added Pin To Net: NetName=Valve6 Pin=PC-1-H1_11
+Added Pin To Net: NetName=Valve6 Pin=Teensy 3.5-12
+Added Net: Name=Valve6
+Added Pin To Net: NetName=XBEE_RX Pin=XBEE-3
+Added Net: Name=XBEE_RX
+Added Pin To Net: NetName=XBEE_TX Pin=XBEE-4
+Added Net: Name=XBEE_TX
+Added Member To Class: ClassName=PANUmbRev2 Member=Component Docking_Switch 53398-0371
+Added Member To Class: ClassName=PANUmbRev2 Member=Component XBEE Connector 4POS Molex PicoBlade

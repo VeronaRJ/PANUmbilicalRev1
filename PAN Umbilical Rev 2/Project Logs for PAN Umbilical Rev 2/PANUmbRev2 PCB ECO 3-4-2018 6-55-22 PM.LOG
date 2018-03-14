@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=DGND Pin=FC-1
+Removed Pin From Net: NetName=Piksi_RX Pin=FC-2
+Removed Pin From Net: NetName=Piksi_TX Pin=FC-3
+Removed Pin From Net: NetName=Teensy2_Reset Pin=FC-4
+Removed Pin From Net: NetName=Docking1 Pin=FC-5
+Removed Pin From Net: NetName=Docking2 Pin=FC-6
+Removed Pin From Net: NetName=Docking_en Pin=FC-7
+Removed Pin From Net: NetName=Quake_RX Pin=FC-9
+Removed Pin From Net: NetName=Quake_TX Pin=FC-10
+Removed Pin From Net: NetName=24V_SAH_enable Pin=FC-11
+Removed Pin From Net: NetName=TempMuxA1 Pin=FC-12
+Removed Pin From Net: NetName=TempMuxEN Pin=FC-13
+Removed Pin From Net: NetName=Valve1 Pin=FC-20
+Removed Pin From Net: NetName=Valve2 Pin=FC-21
+Removed Pin From Net: NetName=Valve3 Pin=FC-22
+Removed Pin From Net: NetName=Teensy2_SCL Pin=FC-23
+Removed Pin From Net: NetName=Teensy2_SDA Pin=FC-24
+Removed Pin From Net: NetName=Valve4 Pin=FC-25
+Removed Pin From Net: NetName=Pressure1 Pin=FC-26
+Removed Pin From Net: NetName=24V_SAH_enable2 Pin=FC-27
+Removed Pin From Net: NetName=TempMuxRead Pin=FC-28
+Removed Pin From Net: NetName=Valve5 Pin=FC-29
+Removed Pin From Net: NetName=AGND Pin=FC-32
+Removed Pin From Net: NetName=5V_Teensy1 Pin=FC-33
+Removed Pin From Net: NetName=DGND Pin=Teensy3.5-1
+Removed Pin From Net: NetName=Piksi_RX Pin=Teensy3.5-2
+Removed Pin From Net: NetName=Piksi_TX Pin=Teensy3.5-3
+Removed Pin From Net: NetName=Teensy2_Reset Pin=Teensy3.5-4
+Removed Pin From Net: NetName=Docking1 Pin=Teensy3.5-5
+Removed Pin From Net: NetName=Docking2 Pin=Teensy3.5-6
+Removed Pin From Net: NetName=Docking_en Pin=Teensy3.5-7
+Removed Pin From Net: NetName=TempMuxA0 Pin=Teensy3.5-8
+Removed Pin From Net: NetName=Quake_RX Pin=Teensy3.5-9
+Removed Pin From Net: NetName=Quake_TX Pin=Teensy3.5-10
+Removed Pin From Net: NetName=TempMuxA1 Pin=Teensy3.5-12
+Removed Pin From Net: NetName=TempMuxEN Pin=Teensy3.5-13
+Removed Pin From Net: NetName=DGND Pin=Teensy3.5-34
+Removed Pin From Net: NetName=Valve1 Pin=Teensy3.5-35
+Removed Pin From Net: NetName=Valve2 Pin=Teensy3.5-36
+Removed Pin From Net: NetName=Valve3 Pin=Teensy3.5-37
+Removed Pin From Net: NetName=Teensy2_SCL Pin=Teensy3.5-38
+Removed Pin From Net: NetName=Teensy2_SDA Pin=Teensy3.5-39
+Removed Pin From Net: NetName=Valve4 Pin=Teensy3.5-40
+Removed Pin From Net: NetName=Pressure1 Pin=Teensy3.5-41
+Removed Pin From Net: NetName=24V_SAH_enable2 Pin=Teensy3.5-42
+Removed Pin From Net: NetName=TempMuxRead Pin=Teensy3.5-43
+Removed Pin From Net: NetName=Valve5 Pin=Teensy3.5-44
+Removed Pin From Net: NetName=QuakeEnable Pin=Teensy3.5-45
+Removed Pin From Net: NetName=AGND Pin=Teensy3.5-47
+Removed Pin From Net: NetName=5V_Teensy1 Pin=Teensy3.5-48
+Removed Member From Class: ClassName=PANUmbRev2 Member=FC
+Removed Member From Class: ClassName=PANUmbRev2 Member=Teensy3.5
+Change Component Designator: OldDesignator=PC-? NewDesignator=PC-1
+Added Component: Designator=B1(61002418221)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6100xx18221.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61002418221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1216841"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "RS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=B1-1
+Added Pin To Net: NetName=Piksi_RX Pin=B1-2
+Added Pin To Net: NetName=Piksi_TX Pin=B1-3
+Added Pin To Net: NetName=Teensy2_Reset Pin=B1-4
+Added Pin To Net: NetName=Docking1 Pin=B1-5
+Added Pin To Net: NetName=Docking2 Pin=B1-6
+Added Pin To Net: NetName=Docking_en Pin=B1-7
+Added Pin To Net: NetName=TempMuxA0 Pin=B1-8
+Added Pin To Net: NetName=Quake_RX Pin=B1-9
+Added Pin To Net: NetName=Quake_TX Pin=B1-10
+Added Pin To Net: NetName=TempMuxA1 Pin=B1-12
+Added Pin To Net: NetName=TempMuxEN Pin=B1-13
+Added Pin To Net: NetName=DGND Pin=B1-34
+Added Pin To Net: NetName=Valve1 Pin=B1-35
+Added Pin To Net: NetName=Valve2 Pin=B1-36
+Added Pin To Net: NetName=Valve3 Pin=B1-37
+Added Pin To Net: NetName=Teensy2_SCL Pin=B1-38
+Added Pin To Net: NetName=Teensy2_SDA Pin=B1-39
+Added Pin To Net: NetName=Valve4 Pin=B1-40
+Added Pin To Net: NetName=Pressure1 Pin=B1-41
+Added Pin To Net: NetName=24V_SAH_enable2 Pin=B1-42
+Added Pin To Net: NetName=TempMuxRead Pin=B1-43
+Added Pin To Net: NetName=Valve5 Pin=B1-44
+Added Pin To Net: NetName=QuakeEnable Pin=B1-45
+Added Pin To Net: NetName=AGND Pin=B1-47
+Added Pin To Net: NetName=5V_Teensy1 Pin=B1-48
+Added Pin To Net: NetName=Pressure1 Pin=PressSense-1
+Added Member To Class: ClassName=PANUmbRev2 Member=Component B1 61002418221

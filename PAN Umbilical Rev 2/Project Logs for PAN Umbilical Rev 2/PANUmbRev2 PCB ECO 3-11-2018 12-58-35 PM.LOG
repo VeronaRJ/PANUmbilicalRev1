@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=Motor1 Pin=DockingMotors-1
+Removed Pin From Net: NetName=Motor2 Pin=DockingMotors-2
+Removed Pin From Net: NetName=Motor3 Pin=DockingMotors-3
+Removed Pin From Net: NetName=Motor4 Pin=DockingMotors-4
+Removed Member From Class: ClassName=PANUmbRev2 Member=DockingMotors
+Change Component Footprint: Designator=XBEE Old Footprint=532610471 New Footprint=MOLEX-53261-0471_V
+Change Component Comment : Designator=XBEE Old Comment=Connector 4POS Molex PicoBlade New Comment=53261-0471
+Change component parameters: Designator = "XBEE"; Footprint = "MOLEX-53261-0471_V"; UniqueID = "\GEPVNXFY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "0532610471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/532610471_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 01/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "1.25mm Pitch PicoBlade(TM) Header, Surface Mount, Right Angle, Lead-Free, 4 Circuits"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "53261"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tradename"; Value = "PicoBlade"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Shrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Added Component: Designator=DockingMotor(MOLEX-53261-0471_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "0532610471"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/532610471_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. G, 01/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions / Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1.25mm Pitch PicoBlade(TM) Header, Surface Mount, Right Angle, Lead-Free, 4 Circuits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "53261"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tradename"; Value = "PicoBlade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Motor1 Pin=DockingMotor-1
+Added Pin To Net: NetName=Motor2 Pin=DockingMotor-2
+Added Pin To Net: NetName=Motor3 Pin=DockingMotor-3
+Added Pin To Net: NetName=Motor4 Pin=DockingMotor-4
+Added Pin To Net: NetName=5V_1 Pin=XBEE-2
+Added Member To Class: ClassName=PANUmbRev2 Member=Component DockingMotor 53261-0471

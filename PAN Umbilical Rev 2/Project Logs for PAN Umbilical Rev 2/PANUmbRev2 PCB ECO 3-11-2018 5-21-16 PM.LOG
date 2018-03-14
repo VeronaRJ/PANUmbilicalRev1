@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V3_2 Pin=Docking_Switch-2
+Removed Pin From Net: NetName=3V3_1 Pin=PC-1-H2_27
+Removed Pin From Net: NetName=3V3_2 Pin=PC-1-H2_28
+Removed Pin From Net: NetName=Piksi_RX Pin=Teensy 3.5-2
+Removed Pin From Net: NetName=Piksi_TX Pin=Teensy 3.5-3
+Removed Pin From Net: NetName=Quake_RX Pin=Teensy 3.5-9
+Removed Pin From Net: NetName=Quake_TX Pin=Teensy 3.5-10
+Added Pin To Net: NetName=3V3_1 Pin=Docking_Switch-2
+Added Pin To Net: NetName=Temp1 Pin=PC-1-H1_2
+Added Pin To Net: NetName=Temp2 Pin=PC-1-H1_4
+Added Pin To Net: NetName=Temp3 Pin=PC-1-H1_6
+Added Pin To Net: NetName=3V3_2 Pin=PC-1-H2_27
+Added Pin To Net: NetName=3V3_1 Pin=PC-1-H2_28
+Added Pin To Net: NetName=Piksi_TX Pin=Teensy 3.5-2
+Added Pin To Net: NetName=Piksi_RX Pin=Teensy 3.5-3
+Added Pin To Net: NetName=Quake_TX Pin=Teensy 3.5-9
+Added Pin To Net: NetName=Quake_RX Pin=Teensy 3.5-10
+Added Pin To Net: NetName=XBEE_TX Pin=Teensy 3.5-23
+Added Pin To Net: NetName=XBEE_RX Pin=Teensy 3.5-24
+Change Net Name : Old Net Name=3V3_1 New Net Name=3V3_2
+Change Net Name : Old Net Name=3V3_2 New Net Name=3V3_1
+Added Room: Name=PANUmbRev2
